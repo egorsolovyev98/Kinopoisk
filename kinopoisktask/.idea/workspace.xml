@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75d3bbf3-d980-499f-a49b-38f98a0d3cf9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGLiLzQE8b2RhWy36G26OdqVcX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="kinopoisktask" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/RWTA-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="TestNG.SearchTests.performAdvancedSearch">
+    <configuration name="SearchTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="kinopoisktask" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kinopoiskSearchTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="kinopoiskSearchTests" />
+      <option name="MAIN_CLASS_NAME" value="kinopoiskSearchTests.SearchTests" />
+      <option name="METHOD_NAME" value="compareFilmRating" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dselenide.browser=&quot;chrome&quot; -Dselenide.timeout=1500" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests.countNumberOf100kVotesFilms" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="kinopoisktask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kinopoiskSearchTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kinopoiskSearchTests" />
+      <option name="MAIN_CLASS_NAME" value="kinopoiskSearchTests.SearchTests" />
+      <option name="METHOD_NAME" value="countNumberOf100kVotesFilms" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests.countNumberOfJpg" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="kinopoisktask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kinopoiskSearchTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kinopoiskSearchTests" />
+      <option name="MAIN_CLASS_NAME" value="kinopoiskSearchTests.SearchTests" />
+      <option name="METHOD_NAME" value="countNumberOfJpg" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests.countNumberOfPng" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="kinopoisktask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kinopoiskSearchTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kinopoiskSearchTests" />
+      <option name="MAIN_CLASS_NAME" value="kinopoiskSearchTests.SearchTests" />
+      <option name="METHOD_NAME" value="countNumberOfPng" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests.performAdvancedSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="kinopoisktask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kinopoiskSearchTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kinopoiskSearchTests" />
+      <option name="MAIN_CLASS_NAME" value="kinopoiskSearchTests.SearchTests" />
+      <option name="METHOD_NAME" value="performAdvancedSearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.SearchTests" />
+      <item itemvalue="TestNG.SearchTests.countNumberOf100kVotesFilms" />
+      <item itemvalue="TestNG.SearchTests.countNumberOfJpg" />
+      <item itemvalue="TestNG.SearchTests.countNumberOfPng" />
+      <item itemvalue="TestNG.SearchTests.performAdvancedSearch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SearchTests.performAdvancedSearch" />
+        <item itemvalue="TestNG.SearchTests" />
+        <item itemvalue="TestNG.SearchTests.countNumberOfJpg" />
+        <item itemvalue="TestNG.SearchTests.countNumberOfPng" />
+        <item itemvalue="TestNG.SearchTests.countNumberOf100kVotesFilms" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75d3bbf3-d980-499f-a49b-38f98a0d3cf9" name="Default Changelist" comment="" />
+      <created>1586357109802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586357109802</updated>
+      <workItem from="1586357113085" duration="38737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="52" y="96" key="#Project_Structure" timestamp="1586848432454">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="52" y="96" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1586848432454" />
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586873772669">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1586873772669" />
+    <state x="92" y="92" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586873876688">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="92" y="92" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.860@0.0.1440.860" timestamp="1586873876688" />
+    <state x="459" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586870088086">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="459" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1586870088086" />
+    <state x="449" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586871224912">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="449" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.860@0.0.1440.860" timestamp="1586871224912" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1586845686233">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1586845686233" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1586880977714">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586880977714" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1586880977714">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1586880977714" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1586880977713">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1586880977713" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1586880977714">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1586880977714" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1586879405647">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586879405647" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1586879405647">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1586879405647" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1586879405647">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1586879405647" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1586879405647">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1586879405647" />
+    <state x="221" y="9" key="SettingsEditor" timestamp="1586760517107">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="9" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1586760517107" />
+  </component>
+</project>
