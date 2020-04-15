@@ -2,6 +2,7 @@ package Steps;
 
 import PageObjects.AdvanceSearch;
 import PageObjects.HomePage;
+import Utils.Converter;
 import com.codeborne.selenide.SelenideElement;
 
 import java.util.List;
@@ -17,7 +18,7 @@ public class Steps {
         List<String> votes = homePage.open().goToTop250().getNumberOfVotes().stream()
                 .map(SelenideElement::getText).collect(Collectors.toList());
 
-        return votes.stream().map(s -> parseInt(s)).collect(Collectors.toList());
+        return votes.stream().map(s -> Converter.parseInt(s)).collect(Collectors.toList());
     }
 
     public int getNumberOf100kVotedFilms()
@@ -45,11 +46,5 @@ public class Steps {
     public String getMostWantedFilm()
     {
         return advanceSearch.getMostWantedFilm().getText();
-    }
-
-    private int parseInt(String str)
-    {
-        str = str.substring(1, str.length() - 1).replaceAll(" ", "");
-        return Integer.parseInt(str);
     }
 }

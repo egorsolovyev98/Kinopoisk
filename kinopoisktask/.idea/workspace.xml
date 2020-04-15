@@ -56,7 +56,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="TestNG.SearchTests.performAdvancedSearch">
+  <component name="RunManager" selected="TestNG.SearchTests.countNumberOf100kVotesFilms">
     <configuration name="SearchTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="kinopoisktask" />
       <useClassPathOnly />
@@ -166,11 +166,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SearchTests.countNumberOf100kVotesFilms" />
         <item itemvalue="TestNG.SearchTests.performAdvancedSearch" />
         <item itemvalue="TestNG.SearchTests" />
         <item itemvalue="TestNG.SearchTests.countNumberOfJpg" />
         <item itemvalue="TestNG.SearchTests.countNumberOfPng" />
-        <item itemvalue="TestNG.SearchTests.countNumberOf100kVotesFilms" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586357109802</updated>
-      <workItem from="1586357113085" duration="38737000" />
+      <workItem from="1586357113085" duration="40502000" />
     </task>
     <servers />
   </component>
@@ -216,22 +216,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1586845686233" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1586880977714">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1586929434415">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586880977714" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1586880977714">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586929434415" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1586929434414">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1586880977714" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1586880977713">
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1586929434414" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1586929434414">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1586880977713" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1586880977714">
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1586929434414" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1586929434415">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1586880977714" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1586929434415" />
     <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1586879405647">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
